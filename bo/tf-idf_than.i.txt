@@ -1,0 +1,1 @@
+wind.n 355 :: air.noften.r 465 :: frequently.r

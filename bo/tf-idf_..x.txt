@@ -1,0 +1,1 @@
+side.n 303 :: perspective.nside.n 308 :: perspective.nside.n 310 :: perspective.nterrible.a 322 :: severe.acivil.a 378 :: thoughtful.aclean.v 387 :: correct.vfull.a 420 :: top.aheap.n 423 :: bin.njob.n 436 :: responsibility.nlate.r 441 :: recently.ronly.r 473 :: hardly.rput.v 499 :: set.v

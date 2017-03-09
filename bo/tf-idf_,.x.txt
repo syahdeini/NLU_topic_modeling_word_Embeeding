@@ -1,0 +1,1 @@
+side.n 307 :: perspective.ntell.v 311 :: assure.vthink.v 337 :: suppose.vcharge.v 365 :: fly.vcivil.a 372 :: thoughtful.acoach.n 398 :: tutor.ndry.a 403 :: flat.afull.a 416 :: top.afull.a 417 :: top.aheap.n 430 :: bin.nlate.r 445 :: recently.roften.r 466 :: frequently.rpulse.n 482 :: rhythm.npulse.n 485 :: rhythm.n
